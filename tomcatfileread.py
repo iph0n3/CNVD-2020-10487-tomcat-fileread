@@ -1,6 +1,8 @@
 #coding:utf-8
 #@20200221
 #@hf.liu
+#http://tomcat.apache.org/connectors-doc/ajp/ajpv13a.html#prefix-codes
+#https://www.cnvd.org.cn/flaw/show/CNVD-2020-10487?spm=a2c4g.11174386.n2.4.63351051T4GJDu
 
 import sys
 import struct
